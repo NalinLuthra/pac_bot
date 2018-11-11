@@ -1,0 +1,2 @@
+aruco:aruco_mapping:aruco_msgs:aruco_ros:image_pipeline/camera_calibration:image_pipeline/depth_image_proc:image_pipeline/image_pipeline:image_pipeline/image_proc:image_pipeline/image_publisher:image_pipeline/image_rotate:image_pipeline/image_view:image_pipeline/stereo_image_proc:image_transport:image_transport_tutorial:map_server:pid:usb_cam:using_markers:whycon
+-DCATKIN_DEVEL_PREFIX=/home/bhavya/catkin_ws/devel -DCMAKE_INSTALL_PREFIX=/home/bhavya/catkin_ws/install -G Unix Makefiles

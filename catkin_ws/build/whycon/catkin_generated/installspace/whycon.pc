@@ -1,0 +1,8 @@
+prefix=/home/bhavya/catkin_ws/install
+
+Name: whycon
+Description: Description of whycon
+Version: 1.2.0
+Cflags: -I/home/bhavya/catkin_ws/install/include
+Libs: -L/home/bhavya/catkin_ws/install/lib -lwhycon
+Requires: cv_bridge roscpp sensor_msgs std_msgs message_runtime geometry_msgs

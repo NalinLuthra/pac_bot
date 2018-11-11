@@ -1,0 +1,8 @@
+prefix=/home/bhavya/catkin_ws/devel
+
+Name: aruco_mapping
+Description: Description of aruco_mapping
+Version: 1.0.4
+Cflags: -I/home/bhavya/catkin_ws/devel/include -I/home/bhavya/catkin_ws/src/aruco_mapping/include
+Libs: -L/home/bhavya/catkin_ws/devel/lib 
+Requires: 

@@ -1,0 +1,8 @@
+prefix=/home/bhavya/catkin_ws/devel
+
+Name: image_publisher
+Description: Description of image_publisher
+Version: 1.12.22
+Cflags: -I/home/bhavya/catkin_ws/devel/include
+Libs: -L/home/bhavya/catkin_ws/devel/lib 
+Requires: 
