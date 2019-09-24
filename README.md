@@ -1,4 +1,8 @@
 # pac_bot
+
+![](3-D-Board.gif)
+![](Work-done.gif)
+
 Interaction b/w real World and virtual World to play classic pac man game. This game is based on ROS and Ardunio.
 
 ROS is using RViz to make virtual world.
